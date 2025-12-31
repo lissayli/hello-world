@@ -54,6 +54,20 @@
             </ul>
         </ol>
         <h3>Education</h3>
-        <p><strong>Bachelor of Arts, <i>Goucher College</i></strong></p>
+        <p><strong>Bachelor of Arts, <i>Goucher College,</strong> May 2020</i></p>
+        <p><i>May 2020</i></p>
+        <p>Majors in Economics, International Relations, Political Science</p>
+        <ul>
+            <li>Commencement Speaker; <i>Magna Cum Laude</i> with Honors in Economics</li>
+        </ul>
+        <h3>Skills</h3>
+        <p>Stata Statistical Analysis | Excel | Apollo.io | Canva | Survey Design | Research Study Design | Data</p>
+        <p>Analysis (Panel and Time Series) | Project Management | Graphic Design | Basic Python | HTML</p>
+        <h3>Publications and Workshops</h3>
+        <ul>
+            <li><strong>Speaker, <i>TechTogether Atlanta: “Building Tech to Protect Users” Workshop, Jan 2022</i></strong></li>
+            <li><strong>Publication, <i><a href="https://digitalcommons.calpoly.edu/sprinkle/vol14/iss1/4/">"Suspicion Encoded: Women of Color and Biometric Technology</a>, Dec 2021</i></strong></li>
+            <li><strong>Speaker, <i>Technica Hackathon: “Building Tech to Protect Users” Workshop, Oct 2021</i></strong></li>
+        </ul>
     </body>
 </html>
