@@ -1,6 +1,6 @@
 ```python
 # EXPENSE TRACKER PRACTICE PROJECT
-# 31-DEC-2026
+# 31-DEC-2025
 # PROJECT 1
 
 #Initial Settings
