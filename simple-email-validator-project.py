@@ -1,5 +1,6 @@
 ```python
 #README: This email validator was made to the particular specifications of the project. Omissions of certain validation checks/special character checks/etc are intentional.
+
 #Define 'validate(email)' function which takes 1 argument
 def main():
     def validate(a1):
@@ -75,4 +76,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 ```
+
