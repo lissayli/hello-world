@@ -1,3 +1,8 @@
+```python
+# EXPENSE TRACKER PRACTICE PROJECT
+# 31-DEC-2026
+# PROJECT 1
+
 #Initial Settings
 expenseList = []
 
@@ -45,3 +50,4 @@ while True:
         print("Invalid choice. Please try again.")
     if choice < 1:
         print("Invalid choice. Please try again.")
+```
