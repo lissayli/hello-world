@@ -1,4 +1,8 @@
 ```python
+# SIMPLE EMAIL VALIDATOR PRACTICE PROJECT
+# 2-JAN-2026
+# PROJECT 2
+
 #README: This email validator was made to the particular specifications of the project. Omissions of certain validation checks/special character checks/etc are intentional.
 
 #Define 'validate(email)' function which takes 1 argument
